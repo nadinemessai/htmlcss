@@ -1,16 +1,12 @@
 Resume
-Tony Alicea
+NADINE
 Coder, UX Designer, and Instructor
 Website: google.com
 Phone: 555-555-1111
 Twitter: @anthonypalicea
 
-Hi! I'm Tony Alicea and I'm happy to have you as a student in my courses. Don't imitate, understand!
+Hi! I'm NADINE and I'm happy to have you as a student in my courses. Don't imitate, understand!
 
-Services
-Web Development
-App Development
-Training
 
 Skills
 HTML
